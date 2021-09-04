@@ -1,0 +1,29 @@
+Test for proximity:
+pass for 20 points
+
+Test for check_base_class:
+pass for 10 points
+
+Test for hero:
+pass for 10 points
+
+Test for jedd:
+pass for 10 points
+
+Test for food_vendor:
+pass for 10 points
+
+Test for hugging_mom:
+pass for 10 points
+
+Test for lost_student:
+pass for 10 points
+
+Test for sweater_merchant:
+pass for 10 points
+
+Test for mypy:
+fail for 0 more points
+
+Your grade is:
+90

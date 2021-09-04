@@ -1,0 +1,14 @@
+Test for valid_move:
+pass for 25 points
+
+Test for make_move:
+fail for 0 more points
+
+Test for go_inside:
+fail for 0 more points
+
+Test for go_outside:
+fail for 0 more points
+
+Your grade is:
+25
